@@ -2,7 +2,7 @@
 
 # 🌸✨ Hey there, I'm [Your name]! ✨🌸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+kawaii+corner!;[Your role]+%E2%9C%A8;Coding+with+%E2%9D%A4%EF%B8%8F+and+%F0%9F%8C%B8" alt="Typing SVG" />
+<img src="https://share.google/UPJZrHqpfWskRSULA" alt="Typing SVG" />
 
 </div>
 
