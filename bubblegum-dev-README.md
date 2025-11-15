@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸✨ Hey there, I'm [Your name]! ✨🌸
+# 🌸✨ Hey there, I am ANUJ TANWAR! ✨🌸
 
 <img src="https://share.google/UPJZrHqpfWskRSULA" alt="Typing SVG" />
 
@@ -17,9 +17,9 @@
 </div>
 
 🌈 **Bio:** [Your bio]  
-📍 **Location:** [Your location]  
-💼 **Currently:** [Your currentStatus]  
-🎯 **Fun Fact:** [Your funFact]  
+📍 **Location:** Indore Madhyapradesh  
+💼 **Currently:** Persuing Undergraduation  
+🎯 **Fun Fact:** Each day is Full of learning 
 
 <div align="center">
 
