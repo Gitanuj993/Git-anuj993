@@ -26,7 +26,7 @@
 ### 💖 Current Mood Board 💖
 
 ![Pink Cloud](https://img.shields.io/badge/Mood-Kawaii%20Coding-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
-![Status](https://img.shields.io/badge/Status-[Your currentStatus]-FFB6C1?style=for-the-badge&logo=sparkles&logoColor=white)
+![Status](https://img.shields.io/badge/Status-happy-FFB6C1?style=for-the-badge&logo=sparkles&logoColor=white)
 
 </div>
 
@@ -56,7 +56,7 @@ console projects!]
 [ Personal Portfolio Website for achievements ]
 
 [![Repo](https://img.shields.io/badge/Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white)]([Your project2Link])
-![Tech](https://img.shields.io/badge/Tech-[Your project2Tech]-FFB6C1?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Tech-portfolio-FFB6C1?style=for-the-badge)
 
 </td>
 </tr>
