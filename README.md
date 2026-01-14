@@ -46,8 +46,8 @@
 [ In this field ,  learning data structure via
 console projects!]
 
-[![Repo](https://img.shields.io/badge/Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white)]([Your project1Link])
-![Tech](https://img.shields.io/badge/Tech-[Your project1Tech]-FFB6C1?style=for-the-badge)
+[![Repo](https://img.shields.io/badge/Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://mock-web-host.vercel.app/)
+![Tech](https://img.shields.io/badge/Tech-Calculator-FFB6C1?style=for-the-badge)
 
 </td>
 <td width="50%">
