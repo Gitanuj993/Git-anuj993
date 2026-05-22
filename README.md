@@ -72,9 +72,7 @@
   
 ![Hindi](https://img.shields.io/badge/Hindi-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 ![English](https://img.shields.io/badge/English-1f6feb?style=for-the-badge&logo=code&logoColor=white)
-![kannada](https://img.shields.io/badge/Kannada-1f6feb?style=for-the-badge&logo=code&logoColor=white)
-![Nimari](https://img.shields.io/badge/Nimari-1f6feb?style=for-the-badge&logo=code&logoColor=white)
-![Sanskrat](https://img.shields.io/badge/Sanskrat-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+
 </tr>
 </table>
 </div>
