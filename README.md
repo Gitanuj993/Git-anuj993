@@ -1,6 +1,7 @@
 <div align="center">
 
 # Welcome AT 
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Gitanuj993/Gitanuj993?utm_source=oss&utm_medium=github&utm_campaign=Gitanuj993%2FGitanuj993&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 
 </div>
 
@@ -158,7 +159,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gitanuj993&theme=vision_friendly_dark)
 
 ### 🚀 Nice to See You here ! 
+
 <img src="https://komarev.com/ghpvc/?username=Gitanuj993&color=1f6feb&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+<img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=Gitanuj993&show_icons=true&count_private=true&theme=dark" height="200px">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> if you want to discuss and implement ideas and projects reach out to me.<b>hi, I'll be glade to connect with you!</b> 😊</em>
 
