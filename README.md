@@ -1,6 +1,7 @@
 <div align="center">
 
 # Welcome AT 
+
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Gitanuj993/Gitanuj993?utm_source=oss&utm_medium=github&utm_campaign=Gitanuj993%2FGitanuj993&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 
 </div>
@@ -13,6 +14,7 @@
 
 ## 🎀 About AT
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=999&width=437&lines=Software+Engineer+%26+Backend+Architect+1)
 
 <hr>
 </div>
@@ -28,7 +30,7 @@
 ---
   <div align="center">
   # Last updated : 
-  <h4>22th-May-2026 </h4>
+  <h4>7th-June-2026 </h4>
 </div>
 ---
 
@@ -91,17 +93,10 @@
 ---
 <div align="center">
 
-<!--
-[![Gitanuj993's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gitanuj993&count_private=true&theme=tokyonight&showicons=true&hide=contribs&rank_icon=github&line_height=24)]
-
-<br>
-
-
-[![Gitanuj993's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitanuj993&langs_count=6&layout=compact&theme=tokyonight)]
   
 </div>
 
--->
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gitanuj993&theme=vision_friendly_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gitanuj993&theme=vision_friendly_dark)
@@ -112,7 +107,7 @@
 
 <div align="center">
 
-**[Software Engineering !]**
+**[Software Engineering ]**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitanuj993&theme=radical&hide_border=true&background=1f6feb&ring=FFB6C1&fire=FFC0CB&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
