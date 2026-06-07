@@ -1,1 +1,1 @@
-# Documentations, guides and tutorials 
+# Documentation, guides, and tutorials
