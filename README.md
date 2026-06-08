@@ -107,7 +107,7 @@
 
 <div align="center">
 
-**[Software Engineering ]**
+![](https://img.shields.io/badge/Software%20Engineering-8A2BE2)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitanuj993&theme=radical&hide_border=true&background=1f6feb&ring=FFB6C1&fire=FFC0CB&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
