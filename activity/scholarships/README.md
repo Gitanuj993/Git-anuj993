@@ -1,11 +1,11 @@
 # Scholarships info and Reports 
 
-```txr 
+```txt
 In this section, Scholarships info
- and Fellowships request will be shared 
+ and Fellowships request will be shared
 ```
 
-
+## Scholarships Details
 
 ### Report / Activity Table
 ```txt
@@ -16,14 +16,14 @@ Table will be there
 1. MPTAAS Madhypradesh Scholarships
 ```txt
 This Scholarship is provided by Government.
-It is not Merir based, i have it becouse i belongs OBC-NCL Category.
+It is not Merir based, i have it because i belongs OBC-NCL Category.
 It is renewable every Year,
 It Covers More than half of my college fee  28730/50000.
 ```
 
 
 
-### List of Applied Scholarahips
+### List of Applied Scholarships
 1. 
 2. 
 3. 
