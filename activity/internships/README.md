@@ -6,7 +6,7 @@ status : Looking for internships
 1. InAmigose Content Writing Internships
 ```txt
 In this Internship candidates write articles and online 
-post or blog on the given theam
+post or blog on the given theme
 ```
 
 
