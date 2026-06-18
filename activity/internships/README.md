@@ -2,7 +2,7 @@
 ```txt
 status : Looking for internships 
 ```
-## List of particepated internships.
+## List of participated internships.
 1. InAmigose Content Writing Internships
 ```txt
 In this Internship candidates write articles and online 
