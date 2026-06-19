@@ -6,6 +6,7 @@ In this section, Scholarships info
 ```
 
 ## Scholarships Details
+1. polarish fellowship : update selected for final round.
 
 ### Report / Activity Table
 ```txt
@@ -34,6 +35,6 @@ It Covers More than half of my college fee  28730/50000.
 8.
 
 ### List of Applied Fellowships.
-1. Polarish Fellowships.
+1. Polarish Fellowships., Got selected for the next & final round.
 
 
