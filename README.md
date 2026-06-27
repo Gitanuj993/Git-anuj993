@@ -20,8 +20,10 @@
 </div>
 <div align = "centre" >
 <table>
+  <a href = "https://gitanuj993.vercel.app/" >
   <th> Software Engineer AT </th>
-<a href = "https://gitanuj993.vercel.app/" > <li>"     See Anuj Tanwar' s portfolio " </li> </a>
+  </a>
+ <li>"    Want to See Anuj 's Personal Website" </li> 
 </table>
 </div>
 
