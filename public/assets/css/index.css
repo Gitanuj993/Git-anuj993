@@ -7,6 +7,19 @@ body {
     letter-spacing: 0.2px;
     
 }
+
+.resume-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.resume-btn:hover {
+    background-color: #0056b3;
+}
+
 #success-message {
 
     opacity: 0;
