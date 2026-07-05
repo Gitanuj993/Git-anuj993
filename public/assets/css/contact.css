@@ -1,0 +1,17 @@
+/* contact.css */
+
+main {
+    min-height: 100vh;
+    padding: 2rem;
+}
+
+#contact {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#contact h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
