@@ -1,0 +1,17 @@
+/* blogs.css */
+
+main {
+    min-height: 100vh;
+    padding: 2rem;
+}
+
+#blogs {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#blogs h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
