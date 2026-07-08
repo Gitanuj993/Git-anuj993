@@ -5,11 +5,15 @@
       "destination": "/",
       "permanent": true
     }
-  ],
+  ]
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "/public/$1"
-    }
+    },
   ]
+  "cleanUrls": true,
+  "git": {
+    "deploymentEnabled": false
+  },
 }
