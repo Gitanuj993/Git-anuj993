@@ -2,11 +2,11 @@ name: AI Code Review
 
 on:
   workflow_dispatch:
- # pull_request:
-   # types:
-  #    - opened
- #     - synchronize
-#      - reopened
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
 
 permissions:
   contents: read
