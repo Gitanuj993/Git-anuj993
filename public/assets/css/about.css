@@ -151,7 +151,7 @@
 
 }
 
-@media(max-width:768px){
+`@media`(max-width:768px){
 
     .timeline{
 
@@ -161,7 +161,7 @@
 
     .timeline-dot{
 
-        left:-22px;
+        left:-19px;
 
         width:14px;
         height:14px;
