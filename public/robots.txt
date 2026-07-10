@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://gitanuj993.vercel.app/sitemap.xml
