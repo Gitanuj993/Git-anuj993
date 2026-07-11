@@ -65,7 +65,7 @@
 
 <div align="center">
 
-### Languages I know
+### Communication Languages
 <div align="center" display="flex" flex-direction="column">
   
 <table padding="none" border-radius = 60px>
@@ -74,6 +74,19 @@
   
 ![Hindi](https://img.shields.io/badge/Hindi-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 ![English](https://img.shields.io/badge/English-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+
+</tr>
+</table>
+</div>
+### Programming Languages
+<div align="center" display="flex" flex-direction="co>
+
+<table padding="none" border-radius = 60px>
+
+<tr>
+
+![Python](https://img.shields.io/badge/Python-1f6feb?st>
+![CPP](https://img.shields.io/badge/CPP-1f6fe>
 
 </tr>
 </table>
