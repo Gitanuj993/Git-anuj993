@@ -85,8 +85,8 @@
 
 <tr>
 
-![Python](https://img.shields.io/badge/Python-1f6feb?st>
-![CPP](https://img.shields.io/badge/CPP-1f6fe>
+![Python](https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+![CPP](https://img.shields.io/badge/CPP-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 
 </tr>
 </table>
