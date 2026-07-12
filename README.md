@@ -169,6 +169,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gitanuj993&theme=vision_friendly_dark)
 
+## FIFA style
+[![My FIFA card](https://gitfut.com/Gitanuj993.png)](https://gitfut.com/Gitanuj993)
+
 ### 🚀 Nice to See You here ! 
 
 <img src="https://komarev.com/ghpvc/?username=Gitanuj993&color=1f6feb&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
