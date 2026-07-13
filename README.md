@@ -169,7 +169,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gitanuj993&theme=vision_friendly_dark)
 
-## FIFA style
+## FIFA style Card
 [![My FIFA card](https://gitfut.com/Gitanuj993.png)](https://gitfut.com/Gitanuj993)
 
 ### 🚀 Nice to See You here ! 
