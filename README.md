@@ -65,7 +65,7 @@
 
 <div align="center">
 
-### Communication Languages
+ Communication Languages
 <div align="center" display="flex" flex-direction="column">
   
 <table padding="none" border-radius = 60px>
