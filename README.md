@@ -65,7 +65,7 @@
 
 <div align="center">
 
-### Languages I know
+ Communication Languages
 <div align="center" display="flex" flex-direction="column">
   
 <table padding="none" border-radius = 60px>
@@ -74,6 +74,19 @@
   
 ![Hindi](https://img.shields.io/badge/Hindi-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 ![English](https://img.shields.io/badge/English-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+
+</tr>
+</table>
+</div>
+ Programming Languages
+<div align="center" style="display: flex; flex-direction: column;">
+
+<table padding="none" border-radius = 60px>
+
+<tr>
+
+![Python](https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+![CPP](https://img.shields.io/badge/CPP-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 
 </tr>
 </table>
@@ -155,6 +168,9 @@
 </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gitanuj993&theme=vision_friendly_dark)
+
+## FIFA style Card
+[![My FIFA card](https://gitfut.com/Gitanuj993.png)](https://gitfut.com/Gitanuj993)
 
 ### 🚀 Nice to See You here ! 
 
