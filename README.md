@@ -78,7 +78,7 @@
 </tr>
 </table>
 </div>
-### Programming Languages
+ Programming Languages
 <div align="center" display="flex" flex-direction="co>
 
 <table padding="none" border-radius = 60px>
