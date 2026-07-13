@@ -79,7 +79,7 @@
 </table>
 </div>
  Programming Languages
-<div align="center" display="flex" flex-direction="co>
+<div align="center" style="display: flex; flex-direction: column;">
 
 <table padding="none" border-radius = 60px>
 
