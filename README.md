@@ -6,7 +6,6 @@
 [![AI Code Review](https://github.com/Gitanuj993/Gitanuj993/actions/workflows/code-review.yml/badge.svg)](https://github.com/Gitanuj993/Gitanuj993/actions/workflows/code-review.yml)
 </div>
 
----
 
 
 
@@ -14,52 +13,26 @@
 
 ## 🎀 About AT
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=999&width=437&lines=Software+Engineer+%26+Backend+Architect+1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=999&width=437&lines=Software+Engineer+1)
 
 <hr>
 </div>
 <div align = "centre" >
-<table>
-  <li>"    Want to See Anuj 's Personal Website" </li> 
+
   <a href="https://gitanuj993.vercel.app/" >
-   Software Engineer AT 
+Personal Website 🖇️ 
   </a>
  
-</table>
+
 </div>
 
 
 
----
   <div align="center">
   # Last updated : 
-  <h4>7th-June-2026 </h4>
-</div>
----
-
-## Projects 
-
-<div align="center">
-
-<caption>Featured Creations </caption>
-<table>
-<tr>
-<td width="50%">
-
-#### 💝 Console C++ Projects 
-
-</tr> <!-- End of row -->
-<tr>
-<td width="50%">
-
-#### 💝 Console python Projects 
-
-</tr> <!-- End of row -->
-</table>
-
+  24th-July-2026 
 </div>
 
----
 
 ## Tech Stack 
 
@@ -94,6 +67,7 @@
 <div>
   <table>
     <tr>
+      
 <h2> Skills & Tools </h2>
 
 ![skills](https://img.shields.io/badge/[Git,Github]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
@@ -113,23 +87,16 @@
 </div>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gitanuj993&theme=vision_friendly_dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gitanuj993&theme=vision_friendly_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gitanuj993&theme=vision_friendly_dark&utcOffset=8)
 
-## 📚 Currently Learning 📚
-
-<div align="center">
-
-![](https://img.shields.io/badge/Software%20Engineering-8A2BE2)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitanuj993&theme=radical&hide_border=true&background=1f6feb&ring=FFB6C1&fire=FFC0CB&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
----
+
 
 ## 
 
@@ -160,7 +127,7 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Discord-1f6feb?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="#">
+<a href="https://gitanuj993.vercel.app">
   <img src="https://img.shields.io/badge/Website-1f6feb?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
 </a>
 <a href="mailto:gleuser83@gmail.com">
@@ -182,7 +149,6 @@
 
 </div>
 
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
