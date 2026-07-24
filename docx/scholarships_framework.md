@@ -1,6 +1,5 @@
 # Scholarships and Activity report
 
-```txt
 Previously i applied to many internships, scholarships, fellowships even eligible and confident enough for them,
 unfortunately i hadn't heard back.
 
@@ -21,4 +20,4 @@ in my case i created an 'activity' directory which includes the following.
 4. Achievements  : It also includes extra curriculum activities.
 5. Certifications : this sections has listed Certificates, real one and AI generated of what i learned from online.
 6. Mindset : In this section i would write about interviews, Statement of Purpose [sop] or essays etc.
-```
+
