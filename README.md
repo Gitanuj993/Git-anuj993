@@ -10,25 +10,13 @@
 
 ## 🎀 About AT
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=999&width=437&lines=Software+Engineer+1)
-
-<hr>
-</div>
-<div align = "centre" >
-
-  <a href="https://gitanuj993.vercel.app/" >
-Personal Website 🖇️ 
-  </a>
- 
-
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=999&width=437&lines=Computer+Science+Engineering)
 
 
 
-  <div align="center">
-  # Last updated : 
+  Last updated 
   24th-July-2026 
-</div>
+
 
 
 ## Tech Stack 
@@ -133,7 +121,7 @@ Personal Website 🖇️
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gitanuj993&theme=vision_friendly_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gitanuj993&theme=vision_friendly_dark)
+
 
 ## FIFA style Card
 [![My FIFA card](https://gitfut.com/Gitanuj993.png)](https://gitfut.com/Gitanuj993)
