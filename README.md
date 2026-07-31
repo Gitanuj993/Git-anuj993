@@ -87,12 +87,6 @@ Personal Website 🖇️
 </div>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gitanuj993&theme=vision_friendly_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gitanuj993&theme=vision_friendly_dark&utcOffset=8)
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitanuj993&theme=radical&hide_border=true&background=1f6feb&ring=FFB6C1&fire=FFC0CB&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
@@ -134,10 +128,24 @@ Personal Website 🖇️
   <img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
+## GitHub Stats & Performance 
+
+[![Gitanuj993 current streak](https://streak-stats.demolab.com/?user=Gitanuj993&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gitanuj993&theme=vision_friendly_dark&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gitanuj993&theme=vision_friendly_dark)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gitanuj993&theme=vision_friendly_dark)
 
 ## FIFA style Card
 [![My FIFA card](https://gitfut.com/Gitanuj993.png)](https://gitfut.com/Gitanuj993)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
 
 ### 🚀 Nice to See You here ! 
 
