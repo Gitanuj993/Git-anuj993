@@ -3,9 +3,6 @@
 # Welcome AT 
 
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Gitanuj993/Gitanuj993?utm_source=oss&utm_medium=github&utm_campaign=Gitanuj993%2FGitanuj993&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
-[![AI Code Review](https://github.com/Gitanuj993/Gitanuj993/actions/workflows/code-review.yml/badge.svg)](https://github.com/Gitanuj993/Gitanuj993/actions/workflows/code-review.yml)
-</div>
-
 
 
 
