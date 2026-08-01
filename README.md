@@ -1,12 +1,10 @@
-<div align="center">
+<div align = "center" >
 
-# Welcome AT 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Anuj%20Tanwar&fontSize=45&animation=twinkling" alt="Banner" />
 
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Gitanuj993/Gitanuj993?utm_source=oss&utm_medium=github&utm_campaign=Gitanuj993%2FGitanuj993&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 
 
-
-<div align="center">
 
 ## 🎀 About AT
 
@@ -23,63 +21,38 @@
 
 ## Tech Stack 
 
-<div align="center">
+
 
  Communication Languages
-<div align="center" display="flex" flex-direction="column">
-  
-<table padding="none" border-radius = 60px>
-  
-<tr>
+
+
   
 ![Hindi](https://img.shields.io/badge/Hindi-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 ![English](https://img.shields.io/badge/English-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 
-</tr>
-</table>
-</div>
  Programming Languages
-<div align="center" style="display: flex; flex-direction: column;">
 
-<table padding="none" border-radius = 60px>
+<img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=c&logoColor=white" />
 
-<tr>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 
-![Python](https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=code&logoColor=white)
-![CPP](https://img.shields.io/badge/CPP-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-</tr>
-</table>
-</div>
-<div>
-  <table>
-    <tr>
+<img src="https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white" />
+
+
       
-<h2> Skills & Tools </h2>
+## Skills & Tools 
 
 ![skills](https://img.shields.io/badge/[Git,Github]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 ![skills](https://img.shields.io/badge/[Pycharm]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 ![skills](https://img.shields.io/badge/[vscode]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 ![skills](https://img.shields.io/badge/[Python]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 ![skills](https://img.shields.io/badge/[C++]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
-</tr>
-</table>
-</div>
-</div>
-
----
-<div align="center">
-
-  
-</div>
 
 
 
-</div>
 
-
-
-## 
 
 <div align="center">
 
@@ -123,7 +96,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gitanuj993&theme=vision_friendly_dark)
 
-
+</div>
 
 ## FIFA style Card
 [![My FIFA card](https://gitfut.com/Gitanuj993.png)](https://gitfut.com/Gitanuj993)
