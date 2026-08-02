@@ -14,8 +14,6 @@
 
 [![Portfolio](https://img.shields.io/badge/AT_Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=111827)](https://gitanuj993.vercel.app)
 
-  Last updated 
-  24th-July-2026 
 
 
 
