@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Images&fontSize=45&animation=twinkling" alt="Banner" />
 
+```txt
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Images&fontSize=45&animation=twinkling" alt="Banner" />
+```
+
 
 ## Programming Languages
 
