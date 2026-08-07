@@ -1,121 +1,56 @@
-<div align="center">
+<div align = "center" >
 
-# Welcome AT 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Anuj%20Tanwar&fontSize=45&animation=twinkling" alt="Banner" />
 
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Gitanuj993/Gitanuj993?utm_source=oss&utm_medium=github&utm_campaign=Gitanuj993%2FGitanuj993&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 
-</div>
 
----
-
-
-
-<div align="center">
 
 ## 🎀 About AT
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=999&width=437&lines=Software+Engineer+%26+Backend+Architect+1)
-
-<hr>
-</div>
-<div align = "centre" >
-<table>
-  <th> Software Engineer AT </th>
-<a href = "https://gitanuj993.vercel.app/" > <li>"     See Anuj Tanwar' s portfolio " </li> </a>
-</table>
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=999&width=437&lines=Computer+Science+Engineering)
 
 
 
----
-  <div align="center">
-  # Last updated : 
-  <h4>7th-June-2026 </h4>
-</div>
----
+[![Portfolio](https://img.shields.io/badge/AT_Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=111827)](https://gitanuj993.vercel.app)
 
-## Projects 
 
-<div align="center">
 
-<caption>Featured Creations </caption>
-<table>
-<tr>
-<td width="50%">
-
-#### 💝 Console C++ Projects 
-
-</tr> <!-- End of row -->
-<tr>
-<td width="50%">
-
-#### 💝 Console python Projects 
-
-</tr> <!-- End of row -->
-</table>
-
-</div>
-
----
 
 ## Tech Stack 
 
-<div align="center">
 
-### Languages I know
-<div align="center" display="flex" flex-direction="column">
-  
-<table padding="none" border-radius = 60px>
-  
-<tr>
+
+ Communication Languages
+
+
   
 ![Hindi](https://img.shields.io/badge/Hindi-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 ![English](https://img.shields.io/badge/English-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 
-</tr>
-</table>
-</div>
-<div>
-  <table>
-    <tr>
-<h2> Skills & Tools </h2>
+ Programming Languages
+
+<img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=c&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white" />
+
+
+      
+## Skills & Tools 
 
 ![skills](https://img.shields.io/badge/[Git,Github]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 ![skills](https://img.shields.io/badge/[Pycharm]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 ![skills](https://img.shields.io/badge/[vscode]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 ![skills](https://img.shields.io/badge/[Python]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 ![skills](https://img.shields.io/badge/[C++]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
-</tr>
-</table>
-</div>
-</div>
-
----
-<div align="center">
-
-  
-</div>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gitanuj993&theme=vision_friendly_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gitanuj993&theme=vision_friendly_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gitanuj993&theme=vision_friendly_dark&utcOffset=8)
-
-## 📚 Currently Learning 📚
-
-<div align="center">
-
-![](https://img.shields.io/badge/Software%20Engineering-8A2BE2)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitanuj993&theme=radical&hide_border=true&background=1f6feb&ring=FFB6C1&fire=FFC0CB&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 
 
 <div align="center">
 
@@ -144,14 +79,31 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Discord-1f6feb?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="#">
+<a href="https://gitanuj993.vercel.app">
   <img src="https://img.shields.io/badge/Website-1f6feb?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
 </a>
 <a href="mailto:gleuser83@gmail.com">
   <img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gitanuj993&theme=vision_friendly_dark)
+## GitHub Stats & Performance 
+
+[![Gitanuj993 current streak](https://streak-stats.demolab.com/?user=Gitanuj993&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gitanuj993&theme=vision_friendly_dark&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gitanuj993&theme=vision_friendly_dark)
+
+</div>
+
+## FIFA style Card
+[![My FIFA card](https://gitfut.com/Gitanuj993.png)](https://gitfut.com/Gitanuj993)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
 
 ### 🚀 Nice to See You here ! 
 
@@ -163,7 +115,6 @@
 
 </div>
 
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
