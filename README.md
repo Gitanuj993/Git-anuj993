@@ -75,7 +75,7 @@ src="Demo/Screenrecording_20260808_100451-ezgif.com-speed.gif" height="660ox"
 <a href="https://www.linkedin.com/in/anuj-tanwar-aa0977279">
   <img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="#"> 
+<a href="https://x.com/anujtawar_in"> 
   <img src="https://img.shields.io/badge/Twitter-1f6feb?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="https://discord.gg/FAd973ybA">
