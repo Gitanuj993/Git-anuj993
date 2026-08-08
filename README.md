@@ -78,7 +78,7 @@ src="Demo/Screenrecording_20260808_100451-ezgif.com-speed.gif" height="660ox"
 <a href="#"> 
   <img src="https://img.shields.io/badge/Twitter-1f6feb?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="#">
+<a href="https://discord.gg/FAd973ybA">
   <img src="https://img.shields.io/badge/Discord-1f6feb?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://gitanuj993.vercel.app">
