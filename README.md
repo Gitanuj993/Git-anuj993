@@ -14,7 +14,9 @@
 
 [![Portfolio](https://img.shields.io/badge/AT_Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=111827)](https://gitanuj993.vercel.app)
 
-
+<img
+src="Demo/Screenrecording_20260808_100451-ezgif.com-speed.gif" height="660ox"
+/>
 
 
 ## Tech Stack 
