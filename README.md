@@ -113,12 +113,14 @@ src="Demo/Screenrecording_20260808_100451-ezgif.com-speed.gif" height="660ox"
 
 <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=Gitanuj993&show_icons=true&count_private=true&theme=dark" height="200px">
 
-## Time Spent
 
+<!--
+## Time Spent
+<!--
 ![Coding GitHub](https://img.shields.io/badge/Coding_Since-5Hours-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![Time Spent](https://img.shields.io/badge/Time_Spent-125%2B_Hours-4285F4?style=for-the-badge&logo=clockify&logoColor=white)
-
+-->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> if you want to discuss and implement ideas and projects reach out to me.<b>hi, I'll be glade to connect with you!</b> 😊</em>
 
 </div>
