@@ -6,7 +6,7 @@ In this section, Scholarships info
 ```
 
 ## Scholarships Details
-1. polarish fellowship : update selected for final round.
+1. Prepare for polaris Fellowship 
 
 ### Report / Activity Table
 ```txt
@@ -25,8 +25,8 @@ It Covers More than half of my college fee  28730/50000.
 
 
 ### List of Applied Scholarships
-1. 
-2. 
+1. Sita Ram Jindal
+2. IDFC PARIVARTAN
 3. 
 4. 
 5. 
@@ -35,6 +35,8 @@ It Covers More than half of my college fee  28730/50000.
 8.
 
 ### List of Applied Fellowships.
+
+## Expired / 
 1. Polarish Fellowships., Got selected for the next & final round.
 
 
